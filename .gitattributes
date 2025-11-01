@@ -7,7 +7,7 @@
     *.tsx             linguist-vendored
     *.min.js          linguist-vendored
     *.map             linguist-vendored
-
+    *.html            linguist-vendored
     # --- Exclure dossiers front/bundles courants
     node_modules/**   linguist-vendored
     dist/**           linguist-vendored
