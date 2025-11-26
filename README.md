@@ -1,8 +1,12 @@
-# AtmosFlux — Weather Intelligence Sandbox
+<div align="center">
+  
+# ☀️ AtmosFlux — Weather Intelligence Sandbox
 
 AtmosFlux pairs a Spring Boot 3 backend with a premium single-page console so you can demo, prototype, or pitch weather-driven experiences without scaffolding a standalone frontend build. Everything ships in one Maven project: REST APIs, Flyway-ready persistence, Swagger docs, and a cinematic dark UI.
 
 ![AtmosFlux console](src/main/resources/static/ATMOSFLUX.png)
+
+</div>
 
 ---
 
